@@ -24,7 +24,7 @@ font-size: 30px;
     font-weight: bold;
     margin-top: 50px;
 }
-.reset-button, .auto-play-button{
+.reset-button, .js-autoplay-button{
     border: none;
     font-size: 20px;
     cursor: pointer;
